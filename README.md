@@ -3,11 +3,6 @@
 A **Advanced Password Generator** made using **HTML, CSS, and JavaScript**.  
 
 ---
-# 🔒 Password Generator
-
-A simple **Password Generator** made using **HTML, CSS, and JavaScript**.  
-
----
 
 ## 🛠️ Built With
 
