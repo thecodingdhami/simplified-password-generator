@@ -11,13 +11,7 @@ It instantly creates strong and random passwords to enhance your online security
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Project](https://dineshsinghdhami.com.np/simplified-password-generator/)** 
-
----
-
-## 🖼️ Preview
-
-![Password Generator Screenshot](preview.png)  
+🔗 **[View Live Project](https://dineshsinghdhami.com.np/simplified-password-generator/)**   
 
 ---
 
