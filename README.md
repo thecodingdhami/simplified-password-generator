@@ -53,7 +53,6 @@ It instantly creates strong and random passwords to enhance your online security
 password-generator
 
 │
-
 ├── index.html
 
 ├── style.css
@@ -62,3 +61,25 @@ password-generator
 
 ---
 
+
+---
+
+## 👨‍💻 Author
+
+**Dinesh Singh Dhami**  
+📧 [Email Me](mailto:dineshdhamidn@gmail.com)  
+🌐 [Portfolio Website](https://www.dineshsinghdhami.com.np)  
+💼 [LinkedIn](https://linkedin.com/in/thecodingdhami)  
+🐙 [GitHub](https://github.com/thecodingdhami)
+
+---
+
+## 🪪 License
+
+© 2025 **Dinesh Singh Dhami**  
+All rights reserved.  
+
+---
+
+
+⭐ *If you found this project helpful, please consider giving it a star on [GitHub](https://github.com/dineshsinghdhami/password-generator)!*
