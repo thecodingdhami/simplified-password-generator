@@ -4,8 +4,8 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-A lightweight and secure **Password Generator Web App** built using **HTML**, **CSS**, and **JavaScript**.  
-It instantly creates strong and random passwords to enhance your online security.  
+- A lightweight and secure **Password Generator Web App** built using **HTML**, **CSS**, and **JavaScript**.  
+- It instantly creates strong and random passwords to enhance your online security.  
 
 ---
 
@@ -35,26 +35,23 @@ It instantly creates strong and random passwords to enhance your online security
 
 ## 🧠 How to Use
 
-1. **Open** the app in your browser.  
+1. **Open** [View Live Project](https://dineshsinghdhami.com.np/simplified-password-generator/) in your browser.  
 2. **Click** the **Generate Password** button.  
 3. **Copy** your new secure password using the copy icon or button.  
 4. Use it wherever you need enhanced password security.  
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
-password-generator
-
+```
+simplified-password-generator/
 │
 ├── index.html
-
 ├── style.css
-
-└── script.js
-
----
-
+├── script.js
+└── screenshot.png
+```
 
 ---
 
@@ -68,12 +65,8 @@ password-generator
 
 ---
 
-## 🪪 License
+## ©️ Copyright
 
-© 2025 **Dinesh Singh Dhami**  
-All rights reserved.  
-
----
-
-
-⭐ *If you found this project helpful, please consider giving it a star on [GitHub](https://github.com/dineshsinghdhami/password-generator)!*
+- All rights reserved © 2025 **[Dinesh Singh Dhami](https://www.dineshsinghdhami.com.np)**
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
