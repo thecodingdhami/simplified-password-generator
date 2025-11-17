@@ -60,8 +60,8 @@ simplified-password-generator/
 **Dinesh Singh Dhami**  
 📧 [Email Me](mailto:dineshdhamidn@gmail.com)  
 🌐 [Portfolio Website](https://www.dineshsinghdhami.com.np)  
-💼 [LinkedIn](https://linkedin.com/in/thecodingdhami)  
-🐙 [GitHub](https://github.com/thecodingdhami)
+💼 [LinkedIn](https://linkedin.com/in/dineshsinghdhami1)  
+🐙 [GitHub](https://github.com/dineshsinghdhami)
 
 ---
 
